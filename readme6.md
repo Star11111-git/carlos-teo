@@ -7,7 +7,7 @@
 
 ![banner-gh](https://github.com/user-attachments/assets/53822e12-a245-44a1-b359-605fc56c4c51)
 <h1 align="center">👋 Hi, I'm Carlos Teo</h1>
-💻 &nbsp; About Me :
+### 💻 &nbsp; About Me :
 I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech enthusiast from Portugal.
 - I’m working as a Senior IT consultant and building large scale web applications.
 - Authoring and blogging about emerging technologies.
