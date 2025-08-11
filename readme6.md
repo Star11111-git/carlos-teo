@@ -7,40 +7,27 @@
 
 ![banner-gh](https://github.com/user-attachments/assets/53822e12-a245-44a1-b359-605fc56c4c51)
 <h1 align="center">👋 Hi, I'm Carlos Teo</h1>
-### 💻 &nbsp; About Me :
+💻 &nbsp; About Me :
 I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech enthusiast from Portugal.
+
+
 - I’m working as a Senior IT consultant and building large scale web applications.
 - Authoring and blogging about emerging technologies.
 - Share knowledge through meetups and twitter.
 ---
 
+#### :fire: My Stats :
+<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudheerj&theme=dark&background=000000)](https://git.io/streak-stats) 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=light)](https://github.com/sudheerj/github-readme-stats) -->
 
-### 👩💻 Professional Experience
+<a href="https://github.com/sudheerj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
+</a>
+<a href="https://github.com/sudheerj">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudheerj&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
+</a>
 
-**Frontend Developer | 2+ Years Experience**  
-✅ **Core Expertise:**  
-- Development of SPAs, SSR applications, and static websites  
-- Remote work with Agile methodologies (Scrum/Kanban)  
-- Modern JavaScript (ECMAScript 6+) implementation  
-- Advanced CSS3 architecture and optimization  
-
-**🚀 Key Technologies:**  
-- **Frameworks/Libraries:** React, Next.js, Vue, Astro  
-- **Routing:** React Router v7  
-- **Styling:** Tailwind CSS 4, Bootstrap 4/5, Styled Components  
-- **Preprocessors:** SASS, Less  
-- **CMS:** WordPress + WordPress REST API  
-
-**🛠️ Development Tools:**  
-- Backend: Node.js, Express  
-- Testing: Postman  
-- Package Managers: npm, nvm  
-- Version Control: Git, GitHub, Git Flow  
-- CLI: Bash command line  
-
-**🎨 Design Tools:**  
-- UI/UX: Figma  
-- Graphics: Adobe Illustrator, Photoshop  
 
 ---
 
