@@ -1,7 +1,5 @@
 
-
-![banner-gh](https://github.com/user-attachments/assets/53822e12-a245-44a1-b359-605fc56c4c51)
-<h1 align="center">👋 Hi, I'm Carlos Teo</h1>
+<h1 align="center">👋 Hi, I'm Star</h1>
 💻 &nbsp; About Me :
 I am a Full Stack IT consultant, Author, Speaker & open source tech enthusiast from Portugal.
 
@@ -9,22 +7,7 @@ I am a Full Stack IT consultant, Author, Speaker & open source tech enthusiast f
 - I’m working as a Senior IT consultant and building large scale web applications.
 - Authoring and blogging about emerging technologies.
 - Share knowledge through meetups and twitter.
----
 
-#### :fire: My Stats :
-<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudheerj&theme=dark&background=000000)](https://git.io/streak-stats) 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=light)](https://github.com/sudheerj/github-readme-stats) -->
-
-<a href="https://github.com/sudheerj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
-</a>
-<a href="https://github.com/sudheerj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudheerj&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="Sudheer's github stats"/>
-</a>
-
-
----
 
 ### 🛠️ Technical Arsenal
 
@@ -95,12 +78,7 @@ I am a Full Stack IT consultant, Author, Speaker & open source tech enthusiast f
 
 <div align="center">
   <a href="https://github.com/sofidevo">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sofidevo&show_icons=true&theme=radical" />
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofidevo&layout=compact&theme=radical" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Star11111-git&layout=compact&theme=radical" />
   </a>
 </div>
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sofidevo&theme=onedark&row=2&column=4" alt="Trophies" />
-</p>
