@@ -1,14 +1,9 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sofidevo&label=Profile%20views&color=0e75b6&style=flat" alt="sofidevo" /> 
-  <a href="https://twitter.com/itssofidev" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/sofidevo?logo=twitter&style=flat" alt="sofidevo" />
-  </a>
-</p>
+
 
 ![banner-gh](https://github.com/user-attachments/assets/53822e12-a245-44a1-b359-605fc56c4c51)
 <h1 align="center">👋 Hi, I'm Carlos Teo</h1>
 💻 &nbsp; About Me :
-I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech enthusiast from Portugal.
+I am a Full Stack IT consultant, Author, Speaker & open source tech enthusiast from Portugal.
 
 
 - I’m working as a Senior IT consultant and building large scale web applications.
@@ -105,26 +100,6 @@ I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech e
   </a>
 </div>
 
----
-
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/sofidev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://codepen.io/sofidev">
-    <img src="https://img.shields.io/badge/CodePen-000?logo=codepen&logoColor=white" alt="CodePen">
-  </a>
-  <a href="https://itssofi.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?logo=react&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:hello@itssofi.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sofidevo&theme=onedark&row=2&column=4" alt="Trophies" />
